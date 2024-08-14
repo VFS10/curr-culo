@@ -11,122 +11,126 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-
-<center><h3>ANALISTA DE DADOS / CIENTISTA DE DADOS<h3></center>
+<center>
+<center><h3>ANALISTA DE DADOS / CIENTISTA DE DADOS Jr.<h3></center>
 
 <center><h4> Contato (11)98325-8007, E-mail: vinicius10f@gmail.com, 
 SBC - São Paulo, São Bernardo do Campo,Brazil<h4></center>
+<br>
+<center><h5>***SOBRE MIM***</center></h5>
+<br>
+Profissional experiente e qualificado, com uma sólida carreira de 10 anos na área de tecnologia, sendo 5 anos dedicados à plataforma SQL.
+<br>
+***Em adição, acumulei 1 ano de experiência desafiadora com Power Bi, Dax e Excel.*** 
+
+<br>
+<center><h5>***CONHECIMENTO ACADÊMICO***</center></h5>
+<br>
+***R - linguagem estatística.*** A linguagem R é usada principalmente para análise estatística e visualização de dados.
+<br>
+Python Biblioteca Pandas e Numpy (Pandas e Numpy) 
+<br>
+
+***Minha trajetória de estudos está voltada para a Ciência e Análise de Dados*** 
+Minhas habilidades interpessoais incluem espírito de equipe, comunicação e
+relacionamento interpessoal, além de um foco em objetivo.
+Aguardo a oportunidade de integrar à equipe de dados para juntos alcançarmos boas análises e melhorias na empresa 
+<br>
+
+<center><h5>***CONHECIMENTO /P ANALISE***</h5>
+
+SQL, R, Power Bi, Dax, Python, Excel
+</center>
+<br>
+
+
+<center><h5>***LINKS***</h5>
+Linkedin: : https://www.linkedin.com/in/viniciusdados<br>
+Github: https://github.com/VFS10<br>
+***Análise Descritiva - Nível Socioeconômico, ênfase em SBC:*** https://rpubs.com/vinifersan/1202489
+</center>
+
+<br>
+
+<center><h5>***DADOS PESSOAIS***</h5>
+
+Nacionalidade Brasileiro, Estado civil Solteiro
+</center>
+<br>
+
+<center><h5>***EXPERIENCIA PROFISSIONAL***</h5>
+
+***Consultor Comercial , Macromind***, São Jose do Rio Preto - Remoto
+jul 2023 - fev 2024<br>
+• Prospectando com eficiência e proatividade<br>
+• Entendendo e ajudando em projetos dos clientes sug<br>
+erindo e explicando a funcionalidade de nossos serviços no projeto<br>
+• Indicando nossos valiosos serviços de VPS<br>
+• Criando conexões entre times pra sucesso do projeto.<br>
+
+
+***Analista de BI, FTI Logística,*** São Bernardo do Campo
+dez 2021 - out 2022<br>
+• Criação e Manutenção de Estrutura BI, otimizando operações</br>
+• Manipulação Excel,SQL,e Power Bi para ETL de Dados</br>
+• Desenvolvimento de medidas DAX, design inteligente de dashboards</br>
+• Análise de resultados para estratégia de negócios</br>
+<br>
+
+***Analista de Suporte, Grupo SBF (Centauro)***
+jan 2018 - jul 2019<br>
+• Suporte especializado para N sistemas de loja<br>
+• Consultoria aprofundada e avaliação de transações financeiras<br>
+* Suporte Field nível 1<br>
+
+***Analista de TI Pleno, Natura Cosméticos***
+jan 2017 - jul 2017<br>
+• Configuração de ativos e infraestrutura<br>
+• Suporte especializado em microinformática<br>
+• Apoio integral para lojas físicas e online<br>
+• Documentação eficiente para base de dados em lojas<br>
+
+***Analista de Suporte 2, JD Consultores,*** Av. Consoloção , Higianopolis -SP
+jan 2013 - jan 2015<br>
+• Suporte otimizado nos sistemas CCS (Cadastro Cliente do Sistema Financeiro) e JUD<br>
+(Sistema de Ordem Judicial)<br>
+• Monitoramento eficaz de processos sistêmicos juntamente as IF e Banco Central<br>
+• Especialista em análise estratégica de negócios<br>
+• Habilidade em testes e implementação de recursos<br>
+• Gerenciamento de dados em SQL
 
 <br>
 <br>
-<br>
-<br>
-SOBRE MIM
-Profissional experiente e
-qualificado, com uma sólida
-carreira de 10 anos na área
-de tecnologia e com 5 anos
-dedicados à plataforma SQL.
-Em adição, acumulei 10
-meses de experiência
-desafiante com Power Bi e
-Dax. Conhecimento
-academico Pandas e Numpy
-e R - linguagem estatística.
-Atualmente, minha trajetória
-de estudos está voltada para
-a Ciência de Dados.
-Minhas habilidades
-interpessoais incluem
-espírito de equipe,
-comunicação e
-relacionamento interpessoal,
-além de um foco objetivos.
-Aguardo a oportunidade de
-integrar à equipe.
-CONHECIMENT
-OS
-SQL
-R
-Power Bi
-Dax
-Python
-Excel
-LINKS
-https://www.linkedin.com/i
-n/viniciusdados
-https://github.com/VFS10
-Linkedin:
-Github:
-IDIOMAS
-Portuguese
-DADOS
-PESSOAIS
-Data de nascimento
-16/09/1989
-Nacionalidade
-Brasileiro
-Estado civil
-Solteiro
-EXPERIÊNCIA PROFISSIONAL
-Analista de BI, FTI Logística, São Bernardo do Campo
-dez 2021 - out 2022
-• Criaçao e Manutenção de Estrutura BI, otimizando operações
-• Manipulação Excel,SQL,e Power Bi para ETL de Dados
-• Desenvolvimento de medidas DAX, design inteligente de dashboards
-• Análise de resultados para estratégia de negócios
-Analista de Suporte, Grupo SBF (Centauro)
-jan 2018 - jul 2019
-• Suporte especializado para N sistemas de loja
-• Consultoria aprofundada e avaliação de transações financeiras
-* Suporte Field nível 1
-Analista de TI Pleno, Natura Cosméticos
-jan 2017 - jul 2017
-• Configuração de ativos e infraestrutura
-• Suporte especializado em microinformática
-• Apoio integral para lojas físicas e online
-• Documentação eficiente para base de dados em lojas
-Analista de Suporte 2, JD Consultores, Av. Consoloção , Higianopolis -SP
-jan 2013 - jan 2015
-• Suporte otimizado nos sistemas CCS (Cadastro Cliente do Sistema Financeiro) e JUD
-(Sistema de Ordem Judicial)
-• Monitoramento eficaz de processos sistêmicos juntamente as IF e Banco Central
-• Especialista em análise estratégica de negócios
-• Habilidade em testes e implementação de recursos
-• Gerenciamento de dados em SQL
-Consultor Comercial , Macromind, São Jose do Rio Preto - Remoto
-jul 2023 - fev 2024
-• Prospectando com eficiência e proatividade
-• Entendendo e ajudando em projetos dos clientes sug
-erindo e explicando a funcionalidade de nossos serviços no projeto
-• Indicando nossos valiosos serviços de VPS
-• Criando conexões entre times pra sucesso do projeto.
-FORMAÇÃO
-Analise de Desenvolvimento de Sistemas, Faculdade Interação Americana
-(FAINAM), Sào Bernardo do Campo
-2013
-MBA: Data Science e Estatística, Na BSBr, Av. Desembargador Moreira, nº
+
+<center><h5>***FORMAÇÃO***</h5></center>
+
+***Graduação: Analise de Desenvolvimento de Sistemas,*** Faculdade Interação Americana
+(FAINAM), Sào Bernardo do Campo 2013<br>
+
+***MBA: Data Science e Estatística,*** Na BSBr, Av. Desembargador Moreira, nº
 1701, Sala 802, Aldeota, Fortaleza/CE
-2023
-CURSOS
-Liderança com Inteligência Emocional 3H, Udemy
-abr 2023
-Storytelling com Dados para Comunicação Profissional de Sucesso 25H,
-EV.G
-mai 2024
-Tableau de A a Z - Modulo I - Business Analytics 3H, Udemy
-dez 2022
-Google Data Studio 8H, Cursa
-nov 2022
-Power Bi para Ciência de Dados 72H, Data Science Academy
-nov 2022
-Python Fundamentos para Análise de Dados 60H, Data Science Academy
-mai 2021
-Fundamentos Big Data 2.0 8H, Data Science Academy
-jul 2020
-Excelência no Atendimento ao Cliente, SENAI
-out 2019
-Gerenciamento do tempo, Senac
-jan 2015
-Informática avançada, Star Bit
-jun 2008
+2023<br>
+
+<center><h5>***CURSOS***</h5></center>
+<br>
+
+***Liderança com Inteligência Emocional 3H***, Udemy
+abr 2023 <br>
+***Storytelling com Dados para Comunicação Profissional de Sucesso 25H***,
+EV.G ai 2024 <br>
+***Tableau de A a Z - Modulo I - Business Analytics 3H***, Udemy
+dez 2022<br>
+***Google Data Studio 8H***, Cursa
+nov 2022<br>
+***Power Bi para Ciência de Dados 72H***, Data Science Academy
+nov 2022<br>
+***Python Fundamentos para Análise de Dados 60H***, Data Science Academy
+mai 2021<br>
+***Fundamentos Big Data 2.0 8H***, Data Science Academy
+jul 2020<br>
+***Excelência no Atendimento ao Cliente***, SENAI
+out 2019<br>
+***Gerenciamento do tempo***, Senac
+jan 2015<br>
+***Informática avançada***, Star Bit
+jun 2008<br></center></center>
